@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Swift, Java and Python.**
 
-- 👨‍💻 2022 Goals: [Reaching advanced level in Swift](Reaching advanced level in Swift)
+- 👨‍💻 2022 Goals: (Reaching advanced level in Swift)
 
 - ⚡ Fun fact: **I love to reading , travel and coding everywhere**
 
