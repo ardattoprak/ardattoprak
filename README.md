@@ -7,7 +7,7 @@
 
 - 👨‍💻 2022 Goals: **Reaching advanced level in Swift**
 
-- ⚡ Fun fact: **I love to reading , travel and coding .**
+- ⚡ Fun fact: **I love to reading , travel and coding**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
