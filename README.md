@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ardattoprak&label=Profile%20views&color=0e75b6&style=flat" alt="ardattoprak" /> </p>
 
-- 🌱 I’m currently learning **Swift, Java and Python.**
+- 🌱 I’m currently learning **Swift and Java.**
 
-- 👨‍💻 2022 Goals: **Reaching advanced level in Swift**
+- 👨‍💻 2023 Goals: **Reaching advanced level in Swift**
 
 - ⚡ Fun fact: **I love to reading , travel and coding**
 
