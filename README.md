@@ -7,7 +7,7 @@
 
 - 👨‍💻 2024 Goals: **Reaching advanced level in Swift**
 
-- ⚡ Fun fact: **I love to reading , travel and coding**
+- ⚡ Fun fact: **I love to travel and coding**
 
 - 📫 My gmail: **ardattoprak@gmail.com**
 
